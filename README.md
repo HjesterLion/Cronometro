@@ -1,10 +1,10 @@
 # Cronometro
 Cronometro
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <windows.h>//para usar o sleep
-#include <MMSystem.h>//para o soom
+include <stdio.h>
+include <stdlib.h>
+include <windows.h>//para usar o sleep
+include <MMSystem.h>//para o soom
 
 
 int main()
