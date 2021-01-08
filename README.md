@@ -1,6 +1,6 @@
 # Cronometro
 Cronometro
-<h1>
+<h1 style="color:#ff0000">
     alguma coisa</h1>
 #include <stdio.h>
 #include <stdlib.h>
